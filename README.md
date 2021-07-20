@@ -19,4 +19,7 @@
 
 MIT
 
+# COPY IT
+```$ git clone https://github.com/MRMUST/RainbowRole.git```
+
 
