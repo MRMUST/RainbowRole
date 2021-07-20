@@ -1,3 +1,5 @@
+```$ git clone https://github.com/MRMUST/RainbowRole.git```
+
 # RainbowRole
 디스코드 역할 색 변경 기능을 이용하여 멤버의 역할 색을 조금 더 멋지게 만들어 주는 디스코드 봇 입니다.
 
@@ -18,8 +20,5 @@
 # 라이선스
 
 MIT
-
-# COPY IT
-```$ git clone https://github.com/MRMUST/RainbowRole.git```
 
 
